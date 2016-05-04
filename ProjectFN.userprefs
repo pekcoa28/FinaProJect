@@ -1,13 +1,13 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/JS/se1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/JS/P1.cs">
     <Files>
-      <File FileName="Assets/JS/move.cs" Line="49" Column="25" />
-      <File FileName="Assets/JS/Shoot.cs" Line="46" Column="3" />
+      <File FileName="Assets/JS/UPDOWN.cs" Line="36" Column="59" />
+      <File FileName="Assets/JS/Shoot.cs" Line="76" Column="96" />
+      <File FileName="Assets/JS/move.cs" Line="26" Column="35" />
       <File FileName="Assets/JS/Corttor.cs" Line="34" Column="18" />
-      <File FileName="Assets/JS/UPDOWN.cs" Line="1" Column="1" />
-      <File FileName="Assets/JS/P1.cs" Line="31" Column="3" />
-      <File FileName="Assets/JS/se1.cs" Line="7" Column="2" />
+      <File FileName="Assets/JS/P1.cs" Line="55" Column="36" />
+      <File FileName="Assets/JS/se1.cs" Line="18" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
